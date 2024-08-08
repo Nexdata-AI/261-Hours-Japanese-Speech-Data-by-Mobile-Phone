@@ -4,7 +4,7 @@
 ## Description
 1006 Japanese native speakers participated in the recording, coming from eastern, western, and Kyushu regions, while the eastern region accounting for the largest proportion. The recording content is rich and all texts have been manually transferred with high accuracy.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/934?source=Github
+For more details, please refer to the link:https://www.nexdata.ai/datasets/speechrecog/934?source=Github
 
 
 ## Format
